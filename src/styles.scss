@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+.container {
+  width:100%;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.content {
+  background-color: #FFF;
+  width: 70%;
+  height: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+}
