@@ -32,19 +32,23 @@ nav {
   text-align: center;
   display: flex;
   flex-wrap: wrap;
+  margin: 2em;
 }
 
 main{
   background-color: #DDD;
-  width: 40%;
+  width: 50%;
   height: inherit;
+  margin-right: 2em;
+  position: relative;
 }
 
 aside{
   background-color: #AAA;
   width: 35%;
   height: inherit;
-  float: end;
+  margin-left: 4em;
+  float: right;
 }
 
 footer{
